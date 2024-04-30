@@ -13,13 +13,6 @@
       "contraseña": "123123",
       "estadoCuenta": true,
       "admin": false
-    },
-    {
-      "id": "6240",
-      "usuario": "nolasco",
-      "contraseña": "123123",
-      "estadoCuenta": false,
-      "admin": false
     }
   ]
 }
